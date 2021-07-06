@@ -37,7 +37,7 @@ pip3 install cricNotifier
 #### Clone the Repository
 
 ```
-git clone https://github.com/zweack/cricNotifier.git && cd cricNotifier
+git clone https://github.com/quirky12345/cricNotifier.git && cd cricNotifier
 ```
 
 #### For Windows:
